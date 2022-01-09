@@ -1,0 +1,28 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=texture.png
+:size=2015x1362
+:pivotpoints=enabled
+:borders=disabled
+
+Base_1_50.png;0;338;1062;1024; 0.5;0.5; 0;0;0;0
+Hair_50.png;1062;882;953;480; 0.5;0.5; 0;0;0;0
+Hair_Omber_1_50.png;1062;539;949;343; 0.5;0.5; 0;0;0;0
+glasses_1_50.png;0;108;1142;230; 0.5;0.5; 0;0;0;0
+Feet_Sit_L_2_50.png;1142;199;309;340; 0.5;0.5; 0;0;0;0
+Feet_Sit_R_2_50.png;1451;262;264;277; 0.5;0.5; 0;0;0;0
+Feet_L_3_50.png;1715;265;256;274; 0.5;0.5; 0;0;0;0
+Feet_R_3_50.png;1715;35;278;230; 0.5;0.5; 0;0;0;0
+Glass_50.png;1142;0;318;199; 0.5;0.5; 0;0;0;0
+Eye_L_3_50.png;1460;133;125;129; 0.5;0.5; 0;0;0;0
+Eye_R_2_50.png;1585;144;84;118; 0.5;0.5; 0;0;0;0
+Eye_L_Light_2_50.png;1062;449;74;90; 0.5;0.5; 0;0;0;0
+Eye_R_Light_2_50.png;1062;365;53;84; 0.5;0.5; 0;0;0;0

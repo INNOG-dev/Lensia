@@ -1,0 +1,34 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=texture.png
+:size=1719x1719
+:pivotpoints=enabled
+:borders=disabled
+
+Chapeau_50.png;0;1279;888;440; 0.5;0.5; 0;0;0;0
+Base_1_50.png;888;951;831;768; 0.5;0.5; 0;0;0;0
+omber_50.png;0;1031;775;248; 0.5;0.5; 0;0;0;0
+light_50.png;0;351;672;680; 0.5;0.5; 0;0;0;0
+Meche7_50.png;672;539;319;412; 0.5;0.5; 0;0;0;0
+Meche3_50.png;0;28;270;323; 0.5;0.5; 0;0;0;0
+Ponpon_50.png;270;64;295;287; 0.5;0.5; 0;0;0;0
+Pied1_50.png;565;72;208;279; 0.5;0.5; 0;0;0;0
+Meche2_50.png;672;386;248;153; 0.5;0.5; 0;0;0;0
+Meche4_50.png;773;187;239;199; 0.5;0.5; 0;0;0;0
+Papillon_1_50.png;773;28;226;159; 0.5;0.5; 0;0;0;0
+Pied2_50.png;991;752;146;199; 0.5;0.5; 0;0;0;0
+Meche6_50.png;991;559;139;193; 0.5;0.5; 0;0;0;0
+Yeux1_50.png;920;420;183;119; 0.5;0.5; 0;0;0;0
+Meche1_50.png;999;8;150;179; 0.5;0.5; 0;0;0;0
+Meche5_50.png;1012;264;117;156; 0.5;0.5; 0;0;0;0
+Pied1_sit_50.png;1103;441;141;118; 0.5;0.5; 0;0;0;0
+Yeux2_50.png;565;0;99;72; 0.5;0.5; 0;0;0;0
+YeuxAlpha_50.png;775;1194;95;85; 0.5;0.5; 0;0;0;0

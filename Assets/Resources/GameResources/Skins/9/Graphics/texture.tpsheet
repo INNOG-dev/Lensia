@@ -1,0 +1,29 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=texture.png
+:size=1795x1794
+:pivotpoints=enabled
+:borders=disabled
+
+base_1_50.png;0;769;1062;1025; 0.5;0.5; 0;0;0;0
+Hair4_50.png;1062;1209;733;585; 0.5;0.5; 0;0;0;0
+Hair5_50.png;0;340;740;429; 0.5;0.5; 0;0;0;0
+Hair2_50.png;740;332;478;437; 0.5;0.5; 0;0;0;0
+Feet_Sit_L_50.png;0;0;309;340; 0.5;0.5; 0;0;0;0
+Feet_L_50.png;1062;801;240;408; 0.5;0.5; 0;0;0;0
+Hair1_50.png;309;107;345;233; 0.5;0.5; 0;0;0;0
+Feet_Sit_R_50.png;654;55;264;277; 0.5;0.5; 0;0;0;0
+Hair3_50.png;1218;376;149;425; 0.5;0.5; 0;0;0;0
+Feet_R_50.png;1302;919;193;290; 0.5;0.5; 0;0;0;0
+Scrunchie1_50.png;1218;154;224;222; 0.5;0.5; 0;0;0;0
+Scrunchie2_50.png;918;114;135;218; 0.5;0.5; 0;0;0;0
+Eye_L_1_50.png;309;32;75;75; 0.5;0.5; 0;0;0;0
+Eye_R_50.png;384;65;42;42; 0.5;0.5; 0;0;0;0

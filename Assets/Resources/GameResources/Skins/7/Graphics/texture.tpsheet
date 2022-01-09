@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=texture.png
+:size=3063x1648
+:pivotpoints=enabled
+:borders=disabled
+
+Hat_Top_50.png;0;703;1170;945; 0.5;0.5; 0;0;0;0
+Base_50.png;1170;624;1062;1024; 0.5;0.5; 0;0;0;0
+Hat_Top_Behind_50.png;0;173;1170;530; 0.5;0.5; 0;0;0;0
+Hat_Bottom_Border_50.png;1170;219;917;405; 0.5;0.5; 0;0;0;0
+Hat_Middle_BG_50.png;2087;277;854;347; 0.5;0.5; 0;0;0;0
+Hat_Bottom_BG_3_50.png;2232;1321;642;327; 0.5;0.5; 0;0;0;0
+Feet_L_50.png;2232;1004;380;317; 0.5;0.5; 0;0;0;0
+Feet_Sit_L_50.png;2232;664;309;340; 0.5;0.5; 0;0;0;0
+icon_50.png;2541;709;307;295; 0.5;0.5; 0;0;0;0
+Feet_R_50.png;2612;1046;319;275; 0.5;0.5; 0;0;0;0
+Hat_Middle_Omber_50.png;2087;20;298;257; 0.5;0.5; 0;0;0;0
+Feet_Sit_R_50.png;2385;0;264;277; 0.5;0.5; 0;0;0;0
+Hat_Bottom_BG_1_50.png;2874;1444;189;204; 0.5;0.5; 0;0;0;0
+Hat_Bottom_BG_2_50.png;2649;112;228;165; 0.5;0.5; 0;0;0;0
+Eye_L_50.png;2874;1369;75;75; 0.5;0.5; 0;0;0;0
+Eye_R_50.png;2874;1327;42;42; 0.5;0.5; 0;0;0;0

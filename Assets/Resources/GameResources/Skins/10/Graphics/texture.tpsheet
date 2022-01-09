@@ -1,0 +1,39 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=texture.png
+:size=3871x2641
+:pivotpoints=enabled
+:borders=disabled
+
+Hair_Behind_50.png;0;1129;1487;1512; 0.5;0.5; 0;0;0;0
+Hair_BG_50.png;1487;1130;1487;1511; 0.5;0.5; 0;0;0;0
+Hair_BG_2_50.png;1487;0;1455;1130; 0.5;0.5; 0;0;0;0
+base_2_50.png;0;290;910;839; 0.5;0.5; 0;0;0;0
+Hair_Omber_50.png;2974;1907;873;734; 0.5;0.5; 0;0;0;0
+Crown_BG_Omber_50.png;2974;1379;621;528; 0.5;0.5; 0;0;0;0
+Crown_BG_50.png;2974;904;610;475; 0.5;0.5; 0;0;0;0
+Tetine_50.png;910;761;577;368; 0.5;0.5; 0;0;0;0
+Feet_Sit_L_1_50.png;910;421;309;340; 0.5;0.5; 0;0;0;0
+Feet_Sit_R_1_50.png;1219;484;264;277; 0.5;0.5; 0;0;0;0
+Feet_L_1_50.png;1219;258;268;226; 0.5;0.5; 0;0;0;0
+Eye_L_BG_50.png;3595;1692;190;215; 0.5;0.5; 0;0;0;0
+Eye_R_BG_50.png;3595;1527;147;165; 0.5;0.5; 0;0;0;0
+Feet_R_1_50.png;3595;1400;162;127; 0.5;0.5; 0;0;0;0
+Eye_L_Color_50.png;3757;1558;90;134; 0.5;0.5; 0;0;0;0
+Jewelry_BG_1_50.png;3785;1785;80;122; 0.5;0.5; 0;0;0;0
+Eye_R_Color_50.png;3757;1455;69;103; 0.5;0.5; 0;0;0;0
+Eye_L_Color_Omber_50.png;3826;1463;40;95; 0.5;0.5; 0;0;0;0
+Eye_R_Color_Omber_50.png;2942;1057;31;73; 0.5;0.5; 0;0;0;0
+Eye_L_Pupils_50.png;3826;1400;45;63; 0.5;0.5; 0;0;0;0
+Jewelry_BG_2_50.png;3757;1398;37;57; 0.5;0.5; 0;0;0;0
+Eye_R_Pupils_50.png;3794;1352;35;48; 0.5;0.5; 0;0;0;0
+Eye_L_Light_50.png;2942;1031;30;26; 0.5;0.5; 0;0;0;0
+Eye_R_Light_50.png;3847;2621;23;20; 0.5;0.5; 0;0;0;0

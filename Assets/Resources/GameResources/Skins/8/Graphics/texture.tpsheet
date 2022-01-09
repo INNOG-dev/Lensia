@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.6
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=texture.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Hat_50.png;0;1318;1246;730; 0.5;0.5; 0;0;0;0
+Hat_Light_50.png;1246;1619;668;429; 0.5;0.5; 0;0;0;0
+Eye_L_1_50.png;1914;1973;75;75; 0.5;0.5; 0;0;0;0
+Eye_R_50.png;1989;2006;42;42; 0.5;0.5; 0;0;0;0
+Tetine_50.png;1246;1251;577;368; 0.5;0.5; 0;0;0;0
+Feet_R_50.png;1823;1491;162;128; 0.5;0.5; 0;0;0;0
+Base_2_50.png;0;294;1062;1024; 0.5;0.5; 0;0;0;0
+Feet_Sit_R_50.png;0;17;264;277; 0.5;0.5; 0;0;0;0
+Feet_L_50.png;264;68;267;226; 0.5;0.5; 0;0;0;0
+Feet_Sit_L_50.png;1062;911;309;340; 0.5;0.5; 0;0;0;0
