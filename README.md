@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lensia/Assets/Resources/Textures/logo.png" width="350" title="hover text">
+  <img src="Assets/Resources/Textures/logo.png" width="350" title="hover text">
 </p>
 
 # Lensia
