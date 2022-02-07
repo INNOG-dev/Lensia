@@ -235,7 +235,7 @@ public class AvatarEditionUI : IUserInterface
                         }
                         else if (x.getSkinUI().getSkin().getId() == equippedSkinId)
                         {
-                            Client.getClient().GetNetworkUser().getAccountData().setEquippedSkinId(x.getSkinUI().getSkin().getId());
+                            //Client.getClient().GetNetworkUser().getAccountData().setEquippedSkinId(x.getSkinUI().getSkin().getId());
                             x.setEquipped(true);
                         }
                     });
